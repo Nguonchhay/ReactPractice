@@ -1,0 +1,51 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "iPhone 13",
+            "unit_price": 1300,
+            "qty_stock": 50,
+            "imageUrl": "https://i.picsum.photos/id/13/300/200.jpg?hmac=2Lv0_sFZOV_gwWXwm8wnWajfFgT5DBGECtL1TVJWbB4"
+        },
+        {
+            "id": "2",
+            "name": "iPhone X",
+            "unit_price": 800,
+            "qty_stock": 5,
+            "imageUrl": "https://i.picsum.photos/id/269/300/200.jpg?hmac=Su4uOUIh5-RoDjDOWUQv9l_uris96mePuQAFboajKaE"
+        },
+        {
+            "id": "3",
+            "name": "Oppo Reno 5",
+            "unit_price": 400,
+            "qty_stock": 15,
+            "imageUrl": "https://i.picsum.photos/id/25/300/200.jpg?hmac=Zvyif_qHZXNP-9d0qR_5wa6HsWZcg2szuePiffjZwac"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Man must explore, and this is exploration at its greatest",
+            "subTitle": "Problems look mighty small from 150 miles up",
+            "author": "Start Bootstrap",
+            "publishedDate": "September 24, 2021",
+            "content": "Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory."
+        },
+        {
+            "id": 2,
+            "title": "Science has not yet mastered prophecy",
+            "subTitle": "We predict too much for the next year and yet far too little for the next ten.",
+            "author": "Start Bootstrap",
+            "publishedDate": "August 24, 2021",
+            "content": "Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory."
+        },
+        {
+            "id": 3,
+            "title": "Failure is not an option",
+            "subTitle": "Many say exploration is part of our destiny, but it’s actually our duty to future generations.",
+            "author": "Start Bootstrap",
+            "publishedDate": "August 04, 2021",
+            "content": "Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory."
+        }
+    ]
+}
